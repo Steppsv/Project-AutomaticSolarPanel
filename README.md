@@ -1,2 +1,2 @@
 # Project-AutomaticSolarPanel
-In diesem Projekt habe ich die Platine und die Sensoren so programmiert, dass sich das Solarpanel in einem bestimmten Winkel drehen kann, zum Beispiel zur Sonne, wenn diese Parameter von einem anderen Gerät übertragen werden. Die Übertragung erfolgt über Funkverbindung.
+In diesem Projekt habe ich mithilfe eines Controllers, einer Platine und Funkmodulen ein Signal von einem Computer auf einen anderen übertragen. Das empfangene Signal wurde verwendet, um einen Servomotor zu steuern, der ein miniaturisiertes Solarpanel in den gewünschten Winkel zum Sonnenlicht drehte. Anschließend wechselte das System in den Wartemodus, bis ein neues Datenpaket empfangen wurde.
